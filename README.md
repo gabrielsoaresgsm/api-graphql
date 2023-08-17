@@ -7,8 +7,7 @@
 
 ## Exemplo de uso:
 
-<p>
-
+```
 mutation Add {
   addTask(title: "Completar exemplo GraphQL") {
     id
@@ -22,6 +21,4 @@ query Get {
     title
   }
 }
-
-
-</p>
+```
