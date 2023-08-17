@@ -2,6 +2,7 @@
   "name": "api-graphql",
   "version": "1.0.0",
   "main": "index.js",
+  "repository": "https://github.com/gabrielsoaresgsm/api-graphql.git",
   "author": "Gabriel Mielo <gabrielgsm51@gmail.com>",
   "license": "MIT",
   "dependencies": {
